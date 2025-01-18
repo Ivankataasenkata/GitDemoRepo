@@ -1,5 +1,5 @@
 
-
+//The function takes three params
 function main(){
     function calc(a, b, c , d){
         return a + b + c + d;
