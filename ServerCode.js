@@ -1,8 +1,8 @@
 
 
 function main(){
-    function calc(a, b,c ){
-        return a + b + c;
+    function calc(a, b, c , d){
+        return a + b + c + d;
     }
 
     const result = calc(10,3);
